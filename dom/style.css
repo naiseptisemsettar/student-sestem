@@ -1,0 +1,14 @@
+#posts {
+  display: flex;
+  gap: 10;
+  flex-wrap: wrap;
+}
+
+article {
+  border: 1px solid red;
+  width: 15%;
+}
+
+img {
+  width: 100%;
+}

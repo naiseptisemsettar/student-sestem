@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Ahmed",
+      "email": "ahmed@gmail.com",
+      "grade": 85
+    },
+    {
+      "id": "2",
+      "name": "Sara",
+      "email": "sara@gmail.com",
+      "grade": 92
+    },
+    {
+      "id": "3",
+      "name": "Omar",
+      "email": "omar@gmail.com",
+      "grade": 45
+    },
+    {
+      "name": "eptisem",
+      "email": "aa6647002@gmail.com",
+      "grade": 90,
+      "id": "xzW6WZiydtM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
